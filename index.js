@@ -13,6 +13,12 @@ app.get('/categories', (req, res) => {
     res.send(categories);
 })
 
+app.get('/category/:categoryName', (req, res) => {
+    const categoryName = req.params.categoryName;
+    categoryCourse = course.filter(c => c.category === categoryName)
+    res.send(categoryCourse);
+})
+
 app.get('/course', (req, res) => {
     res.send(course);
 })
