@@ -1,26 +1,30 @@
 [
     {
-        "id": 1,
+        "id": "00",
+        "categoryName": "All Category"
+    },
+    {
+        "id": "01",
         "categoryName": "Development"
     },
     {
-        "id": 2,
+        "id": "02",
         "categoryName": "Business"
     },
     {
-        "id": 3,
+        "id": "03",
         "categoryName": "Finance & Accounting"
     },
     {
-        "id": 4,
+        "id": "04",
         "categoryName": "IT & Software"
     },
     {
-        "id": 5,
+        "id": "05",
         "categoryName": "Office Productivity"
     },
     {
-        "id": 6,
+        "id": "06",
         "categoryName": "Personal Development"
     }
 ]
