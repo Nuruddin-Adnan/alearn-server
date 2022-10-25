@@ -1,0 +1,201 @@
+[
+    {
+        "id": 1,
+        "category": "Development",
+        "title": "2022 Complete Python Bootcamp From Zero to Hero in Python",
+        "thumbnail": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg",
+        "description": {
+            "courseDescription": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+            "courseContent": [
+                "You will learn how to leverage the power of Python to solve tasks.",
+                "You will build games and programs that use Python libraries.",
+                "You will be able to use Python for your own work problems or personal projects."
+            ]
+        },
+        "ratings": 4.3,
+        "courseFee": 29.99,
+        "author": "Md. Nuruddin Adnan",
+        "publishedDate": "02-10-2022"
+    },
+    {
+        "id": 2,
+        "category": "Development",
+        "title": "2The Web Developer Bootcamp 2022",
+        "thumbnail": "https://img-c.udemycdn.com/course/240x135/625204_436a_3.jpg",
+        "description": {
+            "courseDescription": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+            "courseContent": [
+                "The ins and outs of HTML5, CSS3, and Modern JavaScript for 2021",
+                "Make REAL web applications using cutting-edge technologies",
+                "Create responsive, accessible, and beautiful layouts",
+                "Recognize and prevent common security exploits like SQL-Injection & XSS"
+            ]
+        },
+        "ratings": 4.7,
+        "courseFee": 15.99,
+        "author": "Colt Steel",
+        "publishedDate": "24-09-2022"
+    },
+    {
+        "id": 3,
+        "category": "Development",
+        "title": "The Complete 2022 Web Development Bootcamp",
+        "thumbnail": "https://img-c.udemycdn.com/course/240x135/1565838_e54e_16.jpg",
+        "description": {
+            "courseDescription": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
+            "courseContent": [
+                "You will build 16 web development projects for your portfolio, ready to apply for junior developer jobs.",
+                "You will learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+                "You will master both front and back-end development, becoming a full-stack developer by the end of the course."
+            ]
+        },
+        "ratings": 4.3,
+        "courseFee": 29.99,
+        "author": "Dr. Angela Yu",
+        "publishedDate": "02-10-2022"
+    },
+    {
+        "id": 4,
+        "category": "Business",
+        "title": "Chief Financial Officer Leadership Program",
+        "thumbnail": "https://img-c.udemycdn.com/course/240x135/15305_0987_6.jpg",
+        "description": {
+            "courseDescription": "An ever expanding program of courses helping financial professionals aspire to the top levels of financial leadership",
+            "courseContent": [
+                "Analyze financial statements to gain deeper insight into the financial results, profitability, financial strength, and cash return generation potential.",
+                "In this course, you will be able to facilitatte development of an Enterprise Risk Management system using the principles of the COSO ERM framework.",
+                "Learn about financing strategy including the different varieties of financing, how each work, and when to seek each source of financing."
+            ]
+        },
+        "ratings": 5,
+        "courseFee": 29.99,
+        "author": "Dr. Angela Yu",
+        "publishedDate": "07-05-2022"
+    },
+    {
+        "id": 5,
+        "category": "Business",
+        "title": "Federal Grant Writing 101",
+        "thumbnail": "https://img-c.udemycdn.com/course/240x135/16609_7515_6.jpg",
+        "description": {
+            "courseDescription": "Grant Writing Classes on How to Write and Win a Federal Government Grant Award",
+            "courseContent": [
+                "How to get the most out of the course",
+                "How to use features, benefits and advantages to your own advantage",
+                "How to use features, benefits and advantages to your own advantage"
+            ]
+        },
+        "ratings": 4,
+        "courseFee": 9.99,
+        "author": "Lean Smith",
+        "publishedDate": "09-04-2021"
+    },
+    {
+        "id": 6,
+        "category": "Finance & Accounting",
+        "title": "The Complete Introduction To Accounting and Finance",
+        "thumbnail": "https://img-c.udemycdn.com/course/240x135/32908_4e19_7.jpg",
+        "description": {
+            "courseDescription": "The Original Course on Accounting & Finance! It's easy once you know the basics. Learn introductory accounting & finance",
+            "courseContent": [
+                "Learn From A Top Rated Instructor Who Has Been Teaching On Udemy Since 2013 and Taught Over 100,000 Students!",
+                "Learn From A Top Rated Instructor Who Has Been Teaching On Udemy Since 2013 and Taught Over 100,000 Students!",
+                "Accounting Terminology"
+            ]
+        },
+        "ratings": 4.8,
+        "courseFee": 16.99,
+        "author": "Imran Hossain",
+        "publishedDate": "22-04-2021"
+    },
+    {
+        "id": 7,
+        "category": "IT & Software",
+        "title": "CCNA 2020 200-125 Video Boot Camp With Chris Bryant",
+        "thumbnail": "https://img-c.udemycdn.com/course/240x135/10812_b0af_6.jpg",
+        "description": {
+            "courseDescription": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+            "courseContent": [
+                "You will learn how to leverage the power of Python to solve tasks.",
+                "You will build games and programs that use Python libraries.",
+                "You will be able to use Python for your own work problems or personal projects."
+            ]
+        },
+        "ratings": 4.3,
+        "courseFee": 29.99,
+        "author": "Md. Nuruddin Adnan",
+        "publishedDate": "02-10-2022"
+    },
+    {
+        "id": 8,
+        "category": "IT & Software",
+        "title": "The Theory Behind Electronics - A Beginners Guide",
+        "thumbnail": "https://img-c.udemycdn.com/course/240x135/16429_c92e_5.jpg",
+        "description": {
+            "courseDescription": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+            "courseContent": [
+                "The ins and outs of HTML5, CSS3, and Modern JavaScript for 2021",
+                "Make REAL web applications using cutting-edge technologies",
+                "Create responsive, accessible, and beautiful layouts",
+                "Recognize and prevent common security exploits like SQL-Injection & XSS"
+            ]
+        },
+        "ratings": 4.7,
+        "courseFee": 15.99,
+        "author": "Colt Steel",
+        "publishedDate": "24-09-2022"
+    },
+    {
+        "id": 9,
+        "category": "Office Productivity",
+        "title": "Excel Deep Dive: Pivot Tables Workshop",
+        "thumbnail": "https://img-b.udemycdn.com/course/240x135/18212_8a1f_8.jpg",
+        "description": {
+            "courseDescription": "Learn SAP ABAP Programming With Peter Moxon. Help Study For Certification - Life Time Access + Updates!",
+            "courseContent": [
+                "Get your first job in SAP",
+                "Enhance your existing SAP Skill-set",
+                "Extensive, informative and interesting video lecture"
+            ]
+        },
+        "ratings": 4.9,
+        "courseFee": 15.99,
+        "author": "Peter Moxon",
+        "publishedDate": "07-11-2022"
+    },
+    {
+        "id": 10,
+        "category": "Personal Development",
+        "title": "Pitch Yourself! Learn to Ignite Curiosity + Inspire Action.",
+        "thumbnail": "https://img-b.udemycdn.com/course/240x135/19645_ef6a_12.jpg",
+        "description": {
+            "courseDescription": "Learn to speak about your work with clarity, ease and authenticity. Never fear the question, What do you do? again!",
+            "courseContent": [
+                "By the end of the course you will be able to halve the time you spend on e-mail",
+                "How to use features, benefits and advantages to your own advantage"
+            ]
+        },
+        "ratings": 4.7,
+        "courseFee": 12.99,
+        "author": "Alexa Fixer",
+        "publishedDate": "01-07-2022"
+    },
+    {
+        "id": 11,
+        "category": "Personal Development",
+        "title": "Salary Negotiation: How to Negotiate a Raise or Promotion",
+        "thumbnail": "https://img-c.udemycdn.com/course/240x135/32908_4e19_7.jpg",
+        "description": {
+            "courseDescription": "Stop watching online Courses like a movie, and start learning for real. It's possible.",
+            "courseContent": [
+                "Gain the specific skills needed to ask for a raise - in one hour",
+                "Formulate a winning negotiation game plan",
+                "You will be able to choose the right courses for yourself"
+            ]
+        },
+        "ratings": 4.8,
+        "courseFee": 16.99,
+        "author": "Jim Hopkinson",
+        "publishedDate": "22-12-2021"
+    }
+]
