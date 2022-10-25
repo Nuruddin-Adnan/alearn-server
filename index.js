@@ -15,8 +15,12 @@ app.get('/categories', (req, res) => {
 
 app.get('/category/:categoryName', (req, res) => {
     const categoryName = req.params.categoryName;
-    categoryCourse = course.filter(c => c.category === categoryName)
-    res.send(categoryCourse);
+    categoryCourse = course.filter(c => c.category === categoryName);
+    if (categoryName === 'All Category') {
+        res.send(course)
+    } else {
+        res.send(categoryCourse);
+    }
 })
 
 app.get('/course', (req, res) => {
